@@ -1,0 +1,12 @@
+dynamics365crm/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dynamics365crm/__pycache__/__init__.cpython-38.pyc,,
+dynamics365crm/__pycache__/client.cpython-38.pyc,,
+dynamics365crm/__pycache__/test.cpython-38.pyc,,
+dynamics365crm/client.py,sha256=KtJgpKxg8cJjYj8biJlvEhpLiZ8Pp2m7rtwRDwTiM54,14126
+dynamics365crm/test.py,sha256=AcbDuaD3mSVhK9Qnet83Qdt-gK5Mvcv7ALOP_-p0JwI,1905
+dynamics365crm_python-1.0.2.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+dynamics365crm_python-1.0.2.dist-info/LICENSE,sha256=YIKh8D5TdpSajoPHHtJ6_r_sEKiJ2EtLpGV3IY7UMkQ,1065
+dynamics365crm_python-1.0.2.dist-info/METADATA,sha256=Er9wZpFKbaTYQZpTLpiML_dm1mvBS7BzVUFKBSfziaI,7651
+dynamics365crm_python-1.0.2.dist-info/RECORD,,
+dynamics365crm_python-1.0.2.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dynamics365crm_python-1.0.2.dist-info/WHEEL,sha256=7Z8_27uaHI_UZAc4Uox4PpBhQ9Y5_modZXWMxtUi4NU,88
